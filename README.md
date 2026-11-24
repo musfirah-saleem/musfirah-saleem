@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfirah-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="musfirah-saleem" /> </p>
 
-I'm a MERN Stack Developer with around 4+ years of experience building full-stack web applications. I'm currently a MERN Stack Developer at Egora in Lahore, Pakistan, where I build MERN applications and a React/Redux POS platform, develop REST APIs, work with MongoDB and Mongoose, and integrate the X-Pay payment gateway with webhooks.
+I'm a MERN Stack Developer with around 4+ years of experience building full-stack web applications. I build full-stack web applications — responsive React and Next.js frontends, Node.js/Express REST APIs, MongoDB/Mongoose data modelling, payment gateway and webhook integrations (X-Pay, Stripe), and AI/LLM-powered features across e-commerce, POS/reservation and AI applications.
 
 ## 🚀 Core Specializations
 - MERN Stack Development — React, Node.js, Express, MongoDB
 - Frontend Development — React, Next.js, Redux, Tailwind CSS, Material UI
 - REST APIs & Backend Development — Express, Mongoose, MongoDB
-- Payment Gateway & Webhook Integrations — X-Pay
+- Payment Gateway & Webhook Integrations — X-Pay, Stripe
 - AI-Powered Applications — AI/LLM integrations
 
 ## 💻 Frontend Development
@@ -21,7 +21,7 @@ I'm a MERN Stack Developer with around 4+ years of experience building full-stac
 ## ⚙️ Backend & API Development
 ✅ Building REST APIs with Node.js and Express
 ✅ Data modeling and queries with MongoDB and Mongoose
-✅ Integrating payment gateways and webhooks (X-Pay)
+✅ Integrating payment gateways and webhooks (X-Pay, Stripe)
 ✅ Adding AI/LLM integrations to web applications
 
 ## 💡 Key Projects
@@ -45,7 +45,6 @@ I'm a MERN Stack Developer with around 4+ years of experience building full-stac
 ## 🌐 Let's Connect
 - 📧 Email: musfirahsaleem606@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/musfirah-saleem-768064280](https://www.linkedin.com/in/musfirah-saleem-768064280/)
-- 🌍 Portfolio: [portfolio-lac-phi-92.vercel.app](https://portfolio-lac-phi-92.vercel.app)
 - 📍 Lahore, Pakistan
 
 ## 🛠️ Languages and Tools
@@ -59,6 +58,7 @@ I'm a MERN Stack Developer with around 4+ years of experience building full-stac
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" alt="stripe" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
