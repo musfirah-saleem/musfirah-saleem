@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfirah-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="musfirah-saleem" /> </p>
 
-I'm a MERN Stack Developer with around 4+ years of experience building full-stack web applications. I build full-stack web applications — React and Next.js frontends, Node.js/Express REST APIs, MongoDB/Mongoose data modelling, payment gateway and webhook integrations (X-Pay, Stripe), and AI/LLM-powered features across e-commerce, POS/reservation and AI applications.
+I'm a MERN Stack Developer with around 4+ years of experience — React and Next.js frontends, Node.js/Express REST APIs, MongoDB/Mongoose data modelling, payment gateway and webhook integrations (X-Pay, Stripe), and AI/LLM-powered features across e-commerce, POS/reservation and AI applications.
 
 ## 🚀 Core Specializations
 - MERN Stack Development — React, Node.js, Express, MongoDB
